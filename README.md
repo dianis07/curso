@@ -2,6 +2,7 @@
 ## Documentos 
 
 ## Lista
+## Cambios
 Documentos del curso de R básico
 
 - Instalar 
